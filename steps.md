@@ -5,16 +5,8 @@
 ## npx tsc --init to create tsconfig.json for backend with typescript
 
 ## uncomment the following line from tsconfig.json : 
-``
-"moduleResolution": "node",   
-``
-"outDir": "./build" INSTEAD OF "outDir": "./", 
-
-
-
-
-
-
+# "moduleResolution": "node"
+# "outDir": "./build" INSTEAD OF "outDir": "./", 
 
 # ------------------ FRONTEND ------------------
 
